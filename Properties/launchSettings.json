@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Documents.UI.Spectre.JobRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "50,000Test.ecf",
+      "workingDirectory": "G:\\Phoenix\\CTS\\Shared"
+    }
+  }
+}
